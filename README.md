@@ -15,3 +15,6 @@ vendor url: https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json
 pathplanner: https://apps.microsoft.com/detail/9nqbkb5dw909?hl=en-us&gl=US
 
 vendor url: https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
+
+# Main Website
+https://tinyurl.com/BurgerBots
