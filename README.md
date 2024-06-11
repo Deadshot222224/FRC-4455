@@ -7,7 +7,7 @@ the purpose of this github is to teach others on how to code for robots as there
 #### Resources
 
 ### Main Website
-  https://tinyurl.com/BurgerBots
+  [![Visit our Website](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://tinyurl.com/BurgerBots)
 
 ### Releases
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Deadshot222224/FRC-4455/releases)
