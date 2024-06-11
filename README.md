@@ -11,16 +11,16 @@ the purpose of this github is to teach others on how to code for robots as there
 
 ### for Auto's:
 
- - # choreo: 
+ - ###### choreo: 
       https://github.com/SleipnirGroup/Choreo/releases
 
-  - # vendor url: 
+  - ###### vendor url: 
       https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json
 
- - # pathplanner: 
+ - ###### pathplanner: 
       https://apps.microsoft.com/detail/9nqbkb5dw909?hl=en-us&gl=US
 
-  - # vendor url: 
+  - ###### vendor url: 
       https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
 
 ##### Main Website
