@@ -6,6 +6,9 @@ I will also provide more info on how to contact me if you have further issues wi
 the purpose of this github is to teach others on how to code for robots as there are not many explanations on how to code for FRC which usually leads to others having to learn the hard way
 #### Resources
 
+### Main Website
+  https://tinyurl.com/BurgerBots
+
 ### Releases
 [![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Deadshot222224/FRC-4455/releases)
 
@@ -23,6 +26,5 @@ the purpose of this github is to teach others on how to code for robots as there
   - ###### vendor url: 
       https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
 
-### Main Website
-  https://tinyurl.com/BurgerBots
+
 
