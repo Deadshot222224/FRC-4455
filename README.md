@@ -30,3 +30,6 @@ The purpose of this GitHub is to teach others how to code for robots, as there a
   
 - ###### pathplanner: [Pathplanner](https://apps.microsoft.com/detail/9nqbkb5dw909?hl=en-us&gl=US)
   - ###### Vendor URL: [PathplannerLib.json](https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json)
+
+this project is a modified version of Y.A.G.S.L
+credits go to: https://github.com/BroncBotz3481/YAGSL (aka Bronco Bots or FRC Team 3481)
