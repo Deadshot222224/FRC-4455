@@ -1,20 +1,28 @@
-# Tutorial
+###### Tutorial
 I will provide a tutorial during off season and an in depth explanation on how everything works 
 
 I will also provide more info on how to contact me if you have further issues with coding 
 
 the purpose of this github is to teach others on how to code for robots as there are not many explanations on how to code for FRC which usually leads to others having to learn the hard way
-# Resources
+#### Resources
 
-for Auto's:
+### Releases
+[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/Deadshot222224/FRC-4455/releases)
 
-choreo: https://github.com/SleipnirGroup/Choreo/releases
+### for Auto's:
 
-vendor url: https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json
+ - # choreo: 
+      https://github.com/SleipnirGroup/Choreo/releases
 
-pathplanner: https://apps.microsoft.com/detail/9nqbkb5dw909?hl=en-us&gl=US
+  - # vendor url: 
+      https://SleipnirGroup.github.io/ChoreoLib/dep/ChoreoLib.json
 
-vendor url: https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
+ - # pathplanner: 
+      https://apps.microsoft.com/detail/9nqbkb5dw909?hl=en-us&gl=US
 
-# Main Website
-https://tinyurl.com/BurgerBots
+  - # vendor url: 
+      https://3015rangerrobotics.github.io/pathplannerlib/PathplannerLib.json
+
+##### Main Website
+  https://tinyurl.com/BurgerBots
+
